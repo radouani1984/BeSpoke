@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeSpoke.SPA", "BeSpoke.SPA\BeSpoke.SPA.csproj", "{FFF0BADB-2F5D-420E-A4FB-D5389B58B166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeSpoke.Api", "BeSpoke.Api\BeSpoke.Api.csproj", "{B52E2F86-DCED-4782-BBBA-727DF61B9170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeSpoke.Identity", "BeSpoke.Identity\BeSpoke.Identity.csproj", "{CEF616D8-D7DD-4799-9DAF-BFC661044103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFF0BADB-2F5D-420E-A4FB-D5389B58B166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF0BADB-2F5D-420E-A4FB-D5389B58B166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF0BADB-2F5D-420E-A4FB-D5389B58B166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF0BADB-2F5D-420E-A4FB-D5389B58B166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52E2F86-DCED-4782-BBBA-727DF61B9170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52E2F86-DCED-4782-BBBA-727DF61B9170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52E2F86-DCED-4782-BBBA-727DF61B9170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52E2F86-DCED-4782-BBBA-727DF61B9170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF616D8-D7DD-4799-9DAF-BFC661044103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF616D8-D7DD-4799-9DAF-BFC661044103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF616D8-D7DD-4799-9DAF-BFC661044103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF616D8-D7DD-4799-9DAF-BFC661044103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
